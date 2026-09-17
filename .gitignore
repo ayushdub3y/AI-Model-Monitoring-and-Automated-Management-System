@@ -1,14 +1,67 @@
-.venv/
+# =========================
+# Python
+# =========================
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
 
+# =========================
+# Environment / secrets
+# =========================
 .env
+.env.*
+!.env.example
 
-data/raw/*
-data/processed/*
+# =========================
+# ML generated models
+# =========================
+*.pkl
+*.joblib
 
-models/*
+# =========================
+# Runtime / generated storage
+# =========================
+storage/models/
+storage/artifacts/
+storage/datasets/
+storage/test_iteration2_scratch/
 
+# =========================
+# Local databases
+# =========================
 *.db
+*.sqlite
+*.sqlite3
 
+# =========================
+# Frontend generated files
+# =========================
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# Python/testing caches
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =========================
+# IDE / OS
+# =========================
 .vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs / temporary files
+# =========================
+*.log
+*.tmp
+*.temp

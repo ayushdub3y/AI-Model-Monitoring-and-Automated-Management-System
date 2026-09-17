@@ -1,0 +1,1056 @@
+gender,SeniorCitizen,Partner,Dependents,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn,UnexpectedColumn_XYZ
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Mailed check,74.65,966.25,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Yes,Credit card (automatic),89.15,4245.55,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Electronic check,86.1,5215.25,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,76.05,318.9,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Mailed check,93.9,486.85,1,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Mailed check,45.85,45.85,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),115.15,8349.45,0,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Credit card (automatic),66.05,3462.1,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),20.35,695.85,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),104.75,4323.45,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.4,1061.6,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),24.3,1643.25,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),60.3,4109.0,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Electronic check,99.9,6241.35,0,999
+Female,1,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Electronic check,110.2,4972.1,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,96.8,5283.95,1,999
+Male,1,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Electronic check,45.05,770.6,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),106.15,4512.7,1,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Credit card (automatic),102.7,5138.1,0,999
+Female,1,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.65,164.3,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Credit card (automatic),80.55,1411.65,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,No,No,No,Yes,Yes,No,No,Mailed check,40.9,1383.6,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),19.65,779.25,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,23.55,1173.35,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Credit card (automatic),107.2,7317.1,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,79.55,718.55,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,96.55,3580.3,1,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,44.45,369.3,0,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Yes,Electronic check,94.2,167.5,1,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,No,Credit card (automatic),39.7,1932.75,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,71.65,71.65,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.75,39.3,0,999
+Female,0,No,No,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Yes,Electronic check,65.45,554.45,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,No,Bank transfer (automatic),78.1,947.3,1,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,110.85,7491.75,1,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Mailed check,91.25,6589.6,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,113.65,7714.65,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,No,Electronic check,99.4,5059.75,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Yes,Bank transfer (automatic),92.15,6056.9,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,No,Electronic check,79.25,267.6,1,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Yes,Electronic check,78.85,1772.25,1,999
+Male,0,Yes,Yes,Yes,No,DSL,No,No,Yes,No,Yes,No,No,Mailed check,60.2,563.5,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Credit card (automatic),75.55,4707.85,0,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,No,Credit card (automatic),84.35,3571.6,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,78.9,2384.15,1,999
+Female,1,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Bank transfer (automatic),91.3,4126.35,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.7,419.4,0,999
+Male,0,No,Yes,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Mailed check,45.0,1242.45,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,No,Electronic check,89.85,1424.95,1,999
+Female,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.95,170.9,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.65,19.65,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),82.5,4179.1,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Yes,Electronic check,69.35,191.35,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),20.05,614.45,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),108.3,7679.65,0,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Bank transfer (automatic),90.65,3974.15,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),19.65,351.55,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,No,Electronic check,78.9,1348.95,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,No,Credit card (automatic),91.7,2758.15,1,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Yes,Electronic check,89.35,461.7,1,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Yes,Electronic check,89.75,5496.9,0,999
+Male,1,Yes,No,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),64.05,3886.85,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Yes,Electronic check,83.55,680.05,1,999
+Male,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Electronic check,81.25,5567.55,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),103.2,5744.35,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.85,724.65,0,999
+Male,0,No,No,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Electronic check,106.05,4510.8,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.45,481.1,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.55,583.3,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No,Electronic check,110.35,5893.15,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Bank transfer (automatic),93.9,4200.25,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,No,Credit card (automatic),74.9,147.15,1,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Bank transfer (automatic),101.05,5971.25,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,No,No,No,Yes,Yes,Electronic check,35.55,35.55,1,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Yes,Bank transfer (automatic),67.45,4508.65,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Electronic check,98.85,4947.55,0,999
+Female,0,Yes,No,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,No,Electronic check,45.55,2062.15,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.85,256.6,1,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),25.45,1699.15,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Bank transfer (automatic),95.45,6223.3,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Mailed check,80.05,80.05,1,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Mailed check,94.05,518.75,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.35,1267.0,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,No,Electronic check,75.65,1146.65,1,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Electronic check,111.3,7482.1,1,999
+Female,0,No,No,Yes,No,DSL,No,Yes,No,No,No,No,No,Electronic check,49.95,49.95,0,999
+Female,0,Yes,Yes,Yes,No,DSL,No,Yes,Yes,No,No,No,Yes,Mailed check,55.55,551.3,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,80.3,250.05,1,999
+Male,0,No,No,Yes,No,DSL,No,No,No,Yes,No,No,Yes,Mailed check,50.25,152.3,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.85,1379.6,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Credit card (automatic),70.05,266.9,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,No,Electronic check,84.8,888.75,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Bank transfer (automatic),103.75,5969.95,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,No,Yes,No,No,No,No,Credit card (automatic),54.75,3425.35,0,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Electronic check,60.65,743.3,0,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Mailed check,65.65,4322.85,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Yes,Credit card (automatic),105.25,4997.5,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Credit card (automatic),87.8,2621.75,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),110.0,7138.65,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),88.0,6161.9,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,No,Bank transfer (automatic),99.9,7251.7,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Mailed check,90.45,5957.9,0,999
+Male,0,No,No,Yes,Yes,DSL,Yes,No,No,No,No,No,Yes,Bank transfer (automatic),55.65,1400.55,1,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,No,Electronic check,92.6,1579.7,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),90.05,5965.95,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,No,Bank transfer (automatic),39.35,2395.05,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),18.8,1094.35,0,999
+Female,0,Yes,No,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Yes,Electronic check,84.3,1308.4,1,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,103.5,6479.4,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,No,Bank transfer (automatic),105.5,7611.55,0,999
+Female,0,No,No,Yes,No,DSL,No,Yes,No,Yes,No,No,No,Bank transfer (automatic),54.65,1517.5,0,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),19.55,161.15,0,999
+Male,0,Yes,No,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Credit card (automatic),73.5,5357.75,0,999
+Male,0,No,Yes,Yes,No,DSL,No,No,No,Yes,No,No,Yes,Bank transfer (automatic),48.65,235.2,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,24.85,1013.6,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,No,Electronic check,100.45,3096.9,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,70.6,70.6,1,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Bank transfer (automatic),66.9,4370.25,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,No,Credit card (automatic),53.65,3784.0,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,No,Electronic check,83.9,497.55,1,999
+Female,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),20.25,865.0,0,999
+Male,0,Yes,No,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,60.45,3184.25,1,999
+Male,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Mailed check,79.15,5536.5,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,No,Yes,Yes,No,No,Electronic check,65.4,2774.55,0,999
+Female,0,No,Yes,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.65,69.65,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Electronic check,100.05,3480.0,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Electronic check,109.65,7880.25,0,999
+Male,0,No,No,Yes,Yes,DSL,No,No,Yes,Yes,No,No,No,Mailed check,62.05,62.05,1,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Credit card (automatic),69.35,4653.25,0,999
+Male,0,No,No,Yes,Yes,DSL,No,No,No,No,No,No,No,Mailed check,50.75,50.75,0,999
+Female,0,No,No,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,No,Mailed check,45.9,693.45,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),25.5,630.6,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),26.2,954.9,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,118.65,8477.6,0,999
+Male,0,No,Yes,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,95.9,2448.75,1,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.9,942.95,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Yes,Credit card (automatic),96.95,5432.2,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.15,638.0,0,999
+Male,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.85,467.5,0,999
+Male,1,Yes,No,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),73.45,5329.0,0,999
+Female,0,No,No,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Yes,Credit card (automatic),60.25,3282.75,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.85,1326.35,0,999
+Male,1,No,No,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Yes,Electronic check,49.15,2550.9,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Electronic check,100.5,514.0,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,21.25,711.9,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Credit card (automatic),55.35,1636.95,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.55,876.15,0,999
+Female,0,Yes,No,Yes,No,DSL,No,No,Yes,Yes,No,No,No,Electronic check,54.25,1221.55,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),20.3,470.6,0,999
+Male,0,No,No,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No,Electronic check,61.4,3638.25,0,999
+Male,1,No,No,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Credit card (automatic),58.4,964.9,0,999
+Male,1,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Electronic check,45.1,45.1,1,999
+Female,0,No,No,Yes,No,DSL,No,Yes,No,No,No,No,No,Credit card (automatic),51.45,727.85,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Bank transfer (automatic),80.35,2596.15,1,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Mailed check,89.4,6376.55,0,999
+Male,0,Yes,No,Yes,No,DSL,No,Yes,No,No,No,No,Yes,Mailed check,50.15,2058.5,0,999
+Female,1,Yes,No,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Electronic check,83.85,2310.2,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,74.55,622.9,1,999
+Male,0,No,No,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),74.35,4317.35,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Mailed check,66.9,4577.9,0,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Mailed check,89.0,1820.45,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.95,373.5,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),91.35,6697.2,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,No,Electronic check,84.45,4959.15,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,No,Mailed check,40.55,217.5,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,No,No,No,No,Yes,Mailed check,48.55,48.55,1,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,No,Bank transfer (automatic),83.15,2033.05,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Bank transfer (automatic),89.15,2257.75,1,999
+Female,0,No,Yes,No,No phone service,DSL,Yes,No,No,Yes,No,No,No,Bank transfer (automatic),35.05,844.45,0,999
+Male,0,Yes,No,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Electronic check,65.85,902.25,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Yes,Electronic check,104.25,6812.95,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes,Electronic check,104.15,5743.05,1,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,20.0,20.0,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Yes,Mailed check,61.65,713.75,1,999
+Male,1,Yes,Yes,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),64.8,4732.35,0,999
+Male,0,Yes,No,Yes,No,DSL,No,No,No,Yes,No,No,No,Mailed check,50.05,179.35,1,999
+Male,0,No,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,26.35,184.05,0,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Credit card (automatic),70.9,4911.35,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Bank transfer (automatic),73.85,1284.2,1,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Mailed check,74.4,527.9,1,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,105.2,6936.85,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Yes,Bank transfer (automatic),89.8,4959.6,0,999
+Male,1,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,44.95,85.15,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.8,198.25,0,999
+Male,1,No,No,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Electronic check,105.05,7171.7,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Yes,Credit card (automatic),94.2,5895.45,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,No,Bank transfer (automatic),73.5,73.5,1,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,Yes,No,No,Mailed check,56.15,931.9,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,104.85,1531.4,1,999
+Male,0,No,No,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),63.7,4464.8,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.5,1424.9,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Yes,Electronic check,100.3,4222.95,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),109.9,669.45,1,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Yes,Credit card (automatic),80.3,4896.35,0,999
+Female,0,No,Yes,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Mailed check,57.2,223.75,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,80.85,1008.7,1,999
+Male,0,Yes,Yes,Yes,No,DSL,No,No,Yes,No,No,Yes,No,Electronic check,57.45,990.85,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.8,19.8,1,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),25.0,1738.9,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.65,332.65,0,999
+Male,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.15,682.15,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.1,370.5,0,999
+Male,0,Yes,No,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,No,Credit card (automatic),53.15,1930.9,0,999
+Male,0,No,No,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,No,Bank transfer (automatic),70.1,4048.95,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,No,Electronic check,84.25,1968.1,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,No,Electronic check,77.85,299.2,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,No,Electronic check,98.7,4920.55,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.9,505.45,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,No,Bank transfer (automatic),70.0,153.05,1,999
+Female,0,No,No,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No,Electronic check,60.55,1982.6,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.1,1079.45,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Credit card (automatic),97.25,7133.1,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.15,456.85,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.45,1042.65,0,999
+Female,0,No,No,Yes,Yes,DSL,No,No,No,No,No,No,Yes,Mailed check,50.15,2139.1,0,999
+Male,0,No,Yes,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Yes,Electronic check,40.45,1912.85,0,999
+Male,0,No,Yes,Yes,No,DSL,Yes,Yes,No,No,No,No,Yes,Mailed check,55.25,2139.2,1,999
+Male,0,Yes,No,Yes,No,DSL,Yes,No,Yes,No,No,No,No,Mailed check,55.7,55.7,0,999
+Male,0,No,No,Yes,Yes,DSL,No,No,No,No,No,No,Yes,Electronic check,49.0,749.25,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.05,902.0,0,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.75,483.15,0,999
+Female,0,Yes,No,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Credit card (automatic),56.3,2780.6,0,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,Yes,Yes,Electronic check,55.45,55.45,0,999
+Male,1,Yes,No,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Yes,Bank transfer (automatic),71.0,5012.1,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,No,Yes,No,No,No,No,Yes,Electronic check,29.95,248.95,1,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Electronic check,73.85,4092.85,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.65,978.0,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,111.15,6953.4,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,80.8,713.1,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.45,232.1,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,No,Yes,No,Yes,Yes,Electronic check,40.6,1494.5,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Yes,Credit card (automatic),46.35,1662.05,0,999
+Female,0,No,No,Yes,No,DSL,No,No,No,Yes,No,Yes,No,Credit card (automatic),59.1,772.85,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),21.05,139.75,0,999
+Male,1,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.05,94.15,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,No,Bank transfer (automatic),71.6,1957.1,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),109.3,7782.85,0,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Bank transfer (automatic),70.4,1214.05,1,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.0,38.0,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.25,112.3,1,999
+Female,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Electronic check,19.6,35.85,1,999
+Female,0,No,No,Yes,No,DSL,No,No,Yes,Yes,No,No,No,Bank transfer (automatic),53.8,651.55,0,999
+Male,0,No,No,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Electronic check,105.5,2686.05,0,999
+Male,0,Yes,No,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),54.55,2978.3,1,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Yes,Electronic check,100.95,1875.55,1,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Mailed check,44.15,44.15,1,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Electronic check,43.3,123.65,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,No,Electronic check,102.0,6529.25,1,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Yes,Mailed check,79.65,1928.7,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,No,Bank transfer (automatic),84.3,1537.9,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Bank transfer (automatic),110.1,7746.7,0,999
+Female,0,No,No,Yes,No,DSL,No,No,Yes,No,No,Yes,No,Electronic check,60.85,111.4,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,105.65,4284.8,1,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,No,Credit card (automatic),86.15,2745.7,1,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.35,697.65,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Electronic check,94.65,3624.3,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.8,304.6,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.5,835.5,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,Yes,No,No,Yes,Electronic check,75.85,647.5,0,999
+Male,1,No,No,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,Yes,Credit card (automatic),48.8,2555.05,0,999
+Male,0,No,No,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),88.6,6201.95,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.15,785.75,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,No,Mailed check,100.9,5448.6,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Yes,Bank transfer (automatic),85.35,1463.45,1,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,No,Yes,No,No,Yes,Bank transfer (automatic),34.85,1267.2,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,94.1,701.3,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,No,Bank transfer (automatic),99.9,6137.0,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.05,951.55,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.35,707.5,0,999
+Male,1,Yes,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Credit card (automatic),74.3,1178.25,1,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,No,Electronic check,70.55,2419.0,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,25.0,25.0,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,No,Mailed check,66.15,1874.45,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,No,Credit card (automatic),62.65,4375.8,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.95,109.6,0,999
+Male,0,Yes,No,Yes,No,DSL,No,No,No,No,No,No,No,Electronic check,44.6,641.25,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Yes,Bank transfer (automatic),70.1,3913.3,1,999
+Female,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,26.1,692.55,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,25.25,566.5,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.45,20.45,0,999
+Male,0,No,No,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Bank transfer (automatic),73.9,3958.25,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes,Electronic check,91.3,1094.5,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,80.2,181.1,1,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,84.1,3021.6,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.55,280.85,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,No,Electronic check,83.15,2848.45,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Electronic check,75.7,75.7,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.95,19.95,0,999
+Female,1,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Mailed check,79.6,2718.3,1,999
+Male,0,No,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,Yes,Credit card (automatic),55.0,3092.65,1,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Yes,Electronic check,91.35,5764.7,0,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Bank transfer (automatic),44.15,44.15,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Mailed check,71.35,2847.2,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Electronic check,80.45,2429.1,0,999
+Male,0,No,No,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,No,Bank transfer (automatic),42.3,1840.75,0,999
+Male,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),92.3,6719.9,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Electronic check,20.2,20.2,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Credit card (automatic),73.85,1424.5,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,116.25,8564.75,0,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,80.35,307.4,1,999
+Male,1,No,No,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,No,Electronic check,85.0,3969.4,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,94.85,335.75,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,No,Mailed check,98.15,1230.25,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.4,20.4,1,999
+Female,0,Yes,No,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Yes,Credit card (automatic),59.9,3505.1,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),19.3,1447.9,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),26.1,980.35,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.6,414.95,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Yes,Electronic check,95.9,6503.2,0,999
+Female,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),25.05,1270.25,0,999
+Female,0,Yes,Yes,Yes,No,DSL,No,No,Yes,Yes,No,No,No,Credit card (automatic),55.2,528.35,1,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Mailed check,88.4,788.6,0,999
+Female,0,No,No,Yes,Yes,DSL,No,No,No,No,No,No,Yes,Bank transfer (automatic),49.95,49.95,1,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Credit card (automatic),70.3,1706.45,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,89.55,89.55,1,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,84.75,1350.15,1,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,No,Electronic check,95.65,5471.75,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),100.45,1622.45,1,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),91.55,5963.95,0,999
+Female,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),26.1,225.55,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Credit card (automatic),108.15,3432.9,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,No,Credit card (automatic),108.25,6780.1,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,95.7,4729.75,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Mailed check,84.7,5991.05,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,No,Yes,No,Electronic check,80.0,80.0,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.85,161.65,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,No,No,No,No,No,Mailed check,25.35,25.35,0,999
+Female,0,Yes,No,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),67.8,653.15,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,101.8,1752.45,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.65,169.75,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Mailed check,80.25,493.4,0,999
+Male,0,Yes,No,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,No,Credit card (automatic),40.4,1842.7,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Yes,Electronic check,91.15,3369.25,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),19.8,1414.65,0,999
+Female,0,No,No,Yes,No,DSL,Yes,No,No,No,Yes,No,Yes,Electronic check,60.0,487.75,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),114.3,7383.7,0,999
+Female,1,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.5,106.8,0,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,No,No,No,Yes,Yes,Electronic check,39.7,710.05,0,999
+Male,1,Yes,No,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),59.9,2816.65,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.75,487.05,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.0,233.55,1,999
+Female,0,Yes,No,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,45.65,323.45,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Credit card (automatic),69.05,3842.6,0,999
+Female,0,No,Yes,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Yes,Credit card (automatic),79.5,1264.2,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,25.25,1559.3,0,999
+Male,0,No,No,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Bank transfer (automatic),75.75,4284.65,0,999
+Female,0,Yes,Yes,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Yes,Bank transfer (automatic),69.5,1498.2,1,999
+Female,0,Yes,No,Yes,No,DSL,No,No,No,No,No,No,No,Electronic check,43.8,592.65,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),109.7,7344.45,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Yes,Bank transfer (automatic),89.35,1686.85,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Credit card (automatic),75.3,1147.45,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Mailed check,80.3,324.2,0,999
+Female,0,No,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,No,Mailed check,89.6,365.65,1,999
+Female,0,No,No,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Yes,Credit card (automatic),87.15,2274.1,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),111.45,5315.1,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Yes,Bank transfer (automatic),85.4,5869.4,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.7,1253.8,0,999
+Male,0,Yes,No,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Credit card (automatic),69.2,4671.65,0,999
+Female,0,No,No,Yes,No,DSL,No,No,No,Yes,No,No,Yes,Electronic check,52.2,52.2,1,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.4,533.05,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Yes,Credit card (automatic),83.85,2716.3,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Mailed check,93.2,2157.3,0,999
+Female,1,Yes,No,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),80.55,5265.1,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),117.2,8035.95,0,999
+Male,1,Yes,No,Yes,No,DSL,No,Yes,No,No,No,No,No,Mailed check,49.8,2398.4,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,84.6,84.6,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes,Bank transfer (automatic),89.65,3161.6,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.9,1397.3,0,999
+Male,0,No,No,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Electronic check,70.4,2044.75,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Credit card (automatic),53.7,521.0,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,No,Bank transfer (automatic),96.05,4399.5,1,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,45.3,45.3,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Yes,Credit card (automatic),84.8,3626.35,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.7,94.45,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.6,93.45,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Credit card (automatic),99.85,1992.55,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,No,Electronic check,75.3,75.3,1,999
+Female,0,Yes,Yes,Yes,No,DSL,No,No,Yes,No,Yes,No,Yes,Credit card (automatic),58.35,740.55,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.15,777.35,0,999
+Female,0,No,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,24.0,24.0,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,No,Electronic check,68.65,68.65,1,999
+Male,0,No,No,Yes,Yes,DSL,No,Yes,No,No,No,No,No,Electronic check,54.3,54.3,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.9,19.9,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.7,260.9,0,999
+Female,0,No,No,No,No phone service,DSL,Yes,No,No,No,No,No,No,Mailed check,29.75,301.9,0,999
+Male,0,No,No,Yes,No,DSL,No,Yes,No,No,No,No,Yes,Electronic check,50.75,50.75,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),19.45,600.25,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,No,Electronic check,95.4,293.15,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Electronic check,21.0,21.0,1,999
+Male,1,No,No,No,No phone service,DSL,No,No,Yes,No,No,Yes,Yes,Electronic check,41.15,132.2,1,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Yes,Electronic check,85.05,3355.65,0,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,44.75,148.05,0,999
+Female,0,No,Yes,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Yes,Bank transfer (automatic),64.5,177.4,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,Yes,Electronic check,76.65,1313.55,1,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,Yes,Electronic check,90.8,3023.85,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Credit card (automatic),99.8,442.85,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.2,903.7,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Mailed check,69.25,418.4,1,999
+Male,0,Yes,No,Yes,No,DSL,Yes,Yes,No,No,No,Yes,No,Mailed check,64.8,1175.6,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Credit card (automatic),74.75,1129.35,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Yes,Electronic check,96.75,5238.9,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.9,69.9,1,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,24.4,253.9,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,No,No,No,No,Credit card (automatic),55.9,365.35,1,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,No,Electronic check,99.7,4747.2,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),19.25,679.8,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Credit card (automatic),59.45,2136.9,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,Yes,Electronic check,75.15,525.0,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Yes,Bank transfer (automatic),101.15,6638.35,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Bank transfer (automatic),105.4,6794.75,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.3,1192.7,0,999
+Female,0,Yes,No,Yes,No,Fiber optic,Yes,No,No,No,No,No,Yes,Electronic check,74.4,139.4,1,999
+Male,0,Yes,Yes,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),54.65,3632.0,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Mailed check,77.5,1625.0,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,106.35,4849.1,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,No,Credit card (automatic),96.6,2684.35,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,25.75,1686.15,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Yes,Credit card (automatic),89.05,1448.6,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),19.8,1468.75,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Mailed check,75.9,866.4,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),108.1,5067.45,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.15,163.7,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No,Electronic check,108.65,4903.2,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,Yes,No,No,Yes,No,No,No,Credit card (automatic),35.7,2545.7,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),20.45,237.3,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Mailed check,64.4,2088.75,1,999
+Female,0,Yes,No,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,Yes,Electronic check,93.5,4619.55,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),114.45,8375.05,0,999
+Male,0,Yes,Yes,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),76.75,4541.9,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.2,1401.4,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,99.15,6010.05,1,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,No,Electronic check,94.9,273.2,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.55,19.55,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,110.8,6840.95,0,999
+Female,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,25.2,245.15,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,105.4,6989.45,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),24.65,1620.45,0,999
+Male,0,Yes,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),25.05,1629.2,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),24.85,493.4,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,No,Electronic check,69.35,261.65,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Yes,Credit card (automatic),95.0,3008.15,0,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Bank transfer (automatic),86.4,6058.95,0,999
+Female,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),24.95,894.3,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,No,No,No,Yes,No,No,Bank transfer (automatic),65.2,3512.15,0,999
+Female,0,No,No,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,No,Electronic check,54.2,1423.15,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,No,Credit card (automatic),81.85,1810.85,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Yes,Bank transfer (automatic),69.4,3058.3,0,999
+Female,0,No,No,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),74.45,3721.9,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,90.25,2755.35,1,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Bank transfer (automatic),107.4,7748.75,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Yes,Credit card (automatic),91.6,4627.8,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Yes,Bank transfer (automatic),102.1,7149.35,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,74.35,834.2,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.9,1292.6,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.45,1225.65,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,91.5,1400.3,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,21.1,741.0,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,No,Bank transfer (automatic),77.2,2753.8,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,114.0,8093.15,0,999
+Male,0,Yes,Yes,Yes,No,DSL,No,No,Yes,No,Yes,No,Yes,Bank transfer (automatic),59.65,683.25,0,999
+Female,0,No,No,Yes,No,DSL,Yes,Yes,No,No,No,No,Yes,Electronic check,54.9,54.9,1,999
+Male,0,Yes,No,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Yes,Credit card (automatic),66.4,2019.8,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,No,Electronic check,80.55,184.1,1,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Yes,Electronic check,40.2,1525.35,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,77.15,77.15,1,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,No,Mailed check,65.85,4097.05,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.3,19.3,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,Yes,No,Yes,No,No,No,No,Credit card (automatic),35.4,1412.4,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Yes,Credit card (automatic),85.9,3729.75,0,999
+Female,1,No,No,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Electronic check,70.05,3062.45,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,No,Electronic check,89.45,5294.6,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes,Credit card (automatic),84.5,6130.85,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.75,606.25,1,999
+Male,1,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),99.1,6496.15,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,No,Electronic check,93.55,6069.25,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Yes,Bank transfer (automatic),72.1,4194.85,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,No,Credit card (automatic),89.15,3990.75,0,999
+Male,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Bank transfer (automatic),68.8,4111.35,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,No,Electronic check,89.25,1907.85,1,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,No,No,Yes,No,No,Yes,Electronic check,34.5,279.25,1,999
+Male,0,No,No,Yes,No,DSL,No,No,Yes,No,No,No,Yes,Mailed check,49.7,1167.8,0,999
+Female,0,No,No,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,Yes,Electronic check,44.8,2104.55,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),59.5,4144.8,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,No,Electronic check,100.0,3835.55,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.7,263.65,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Yes,Electronic check,83.4,4113.7,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.4,482.8,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),85.95,3110.1,1,999
+Male,1,Yes,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,70.2,280.35,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.2,20.2,1,999
+Male,1,Yes,No,Yes,No,Fiber optic,Yes,No,No,No,No,No,No,Electronic check,75.3,720.45,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),99.45,7007.6,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.85,450.65,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,76.5,2868.15,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.15,802.35,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,18.7,383.65,0,999
+Male,0,No,No,Yes,No,DSL,No,No,Yes,No,No,Yes,No,Mailed check,61.65,1393.6,0,999
+Male,0,No,Yes,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,71.65,71.65,1,999
+Male,0,No,No,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,Yes,Mailed check,50.6,1288.75,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,No,Electronic check,83.75,247.25,1,999
+Female,1,Yes,No,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Yes,Electronic check,101.25,2754.45,1,999
+Female,0,Yes,No,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),80.45,5662.25,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.5,20.5,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),90.95,6652.45,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),109.15,7789.6,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,No,No,No,No,Yes,Credit card (automatic),49.8,49.8,0,999
+Male,1,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,108.9,3625.2,0,999
+Male,0,Yes,No,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Mailed check,81.05,4747.65,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,No,Electronic check,105.55,7405.5,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,Yes,Yes,No,No,No,No,No,Bank transfer (automatic),36.15,2434.45,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.7,762.45,0,999
+Female,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.65,270.6,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,80.95,171.15,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,76.1,1712.7,1,999
+Male,0,No,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Yes,Credit card (automatic),79.45,5502.55,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),24.6,1266.4,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,111.25,7984.15,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.95,59.25,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.7,452.55,0,999
+Male,0,No,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,26.4,121.25,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Electronic check,45.35,89.5,1,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,No,Credit card (automatic),105.4,6998.95,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.95,1311.75,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),109.4,7031.45,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.1,435.0,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Electronic check,97.65,6982.5,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.65,1022.95,0,999
+Female,0,Yes,No,No,No phone service,DSL,Yes,No,No,No,No,No,No,Electronic check,28.5,629.35,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Yes,Mailed check,84.05,2909.95,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Bank transfer (automatic),84.15,1821.95,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,No,Electronic check,69.65,1043.3,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Yes,Mailed check,80.6,4348.1,0,999
+Female,0,Yes,No,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Yes,Credit card (automatic),81.15,5224.5,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,99.7,2967.35,1,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,No,Credit card (automatic),90.25,5629.15,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,No,Electronic check,44.15,1931.3,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,110.45,6077.75,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,No,Electronic check,80.75,159.45,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Yes,Mailed check,79.65,604.7,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.8,146.65,0,999
+Male,1,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Electronic check,45.2,45.2,0,999
+Male,0,No,Yes,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Credit card (automatic),78.3,1033.95,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),104.1,7412.25,0,999
+Male,1,No,No,Yes,Yes,DSL,No,Yes,No,No,No,No,No,Credit card (automatic),54.8,1291.3,0,999
+Female,0,Yes,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),25.0,1753.0,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Credit card (automatic),79.85,4786.1,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.1,20.1,1,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,85.05,85.05,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.0,860.85,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,No,Bank transfer (automatic),74.4,215.8,1,999
+Female,0,Yes,Yes,No,No phone service,DSL,Yes,No,No,Yes,No,No,No,Mailed check,34.6,813.45,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Yes,Electronic check,77.5,3807.35,1,999
+Female,1,No,No,No,No phone service,DSL,No,No,Yes,No,No,No,Yes,Electronic check,30.4,78.65,1,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.35,191.1,0,999
+Female,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.7,216.2,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Credit card (automatic),97.95,5936.55,0,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.55,184.95,0,999
+Female,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),24.7,1810.55,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Bank transfer (automatic),70.2,115.95,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.5,470.2,0,999
+Male,0,No,No,Yes,Yes,DSL,No,No,No,Yes,No,No,No,Bank transfer (automatic),54.6,1242.25,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),114.9,7843.55,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.7,137.6,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,No,No,No,No,No,No,Bank transfer (automatic),30.4,938.65,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,Yes,Credit card (automatic),75.55,349.65,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Yes,Electronic check,90.4,356.65,0,999
+Female,0,No,No,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Yes,Credit card (automatic),100.05,5299.65,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,103.75,6383.35,1,999
+Female,0,No,No,Yes,No,DSL,No,No,Yes,No,No,Yes,Yes,Electronic check,59.45,892.65,1,999
+Female,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),25.9,1216.6,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,No,Mailed check,70.05,657.5,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),100.1,4378.35,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),60.05,3845.45,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Yes,Electronic check,93.5,362.2,1,999
+Female,0,Yes,No,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Yes,Mailed check,61.5,2722.2,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.85,1049.6,0,999
+Female,1,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),92.45,6440.25,1,999
+Male,0,Yes,No,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Electronic check,74.15,741.4,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,96.4,1581.2,1,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.0,935.9,0,999
+Male,0,No,No,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No,Mailed check,61.2,2021.2,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,24.6,592.65,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Yes,Electronic check,94.1,5638.3,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Yes,Electronic check,99.0,6994.6,0,999
+Male,1,No,No,Yes,No,DSL,Yes,No,Yes,No,No,Yes,No,Credit card (automatic),62.7,2791.5,1,999
+Female,0,No,No,No,No phone service,DSL,No,No,No,No,No,No,No,Electronic check,25.25,58.9,1,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Electronic check,95.05,4888.7,1,999
+Male,0,No,No,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Yes,Bank transfer (automatic),65.6,339.9,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,103.65,7634.8,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,No,Mailed check,89.95,1682.4,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Yes,Credit card (automatic),85.4,425.9,1,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Yes,Electronic check,94.25,6081.4,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.15,989.05,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,Yes,No,Yes,No,Yes,Electronic check,41.6,470.6,1,999
+Male,0,No,No,Yes,Yes,DSL,No,No,No,No,Yes,Yes,No,Mailed check,69.6,1394.55,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,106.35,3549.25,1,999
+Female,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),25.05,1171.5,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Mailed check,56.7,113.55,1,999
+Female,1,Yes,No,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Yes,Credit card (automatic),69.5,1752.65,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Yes,Credit card (automatic),97.55,6669.05,0,999
+Male,0,No,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes,Credit card (automatic),89.1,1949.4,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,No,Mailed check,74.15,1387.0,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,73.7,1558.7,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),108.75,7156.2,1,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.45,1208.6,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Electronic check,104.25,6860.6,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.4,358.05,0,999
+Female,0,No,No,Yes,No,DSL,No,Yes,No,No,No,No,Yes,Electronic check,49.55,2077.95,0,999
+Female,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,68.95,351.5,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,105.65,443.9,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Electronic check,94.9,1048.85,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.65,93.55,0,999
+Male,0,No,Yes,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,93.3,93.3,1,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Yes,Credit card (automatic),62.8,2278.75,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Electronic check,81.15,2640.55,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.65,302.35,0,999
+Female,0,No,Yes,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Yes,Credit card (automatic),70.8,3478.15,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,No,Electronic check,79.0,143.65,1,999
+Female,0,No,No,Yes,No,DSL,Yes,Yes,No,No,No,No,No,Mailed check,55.0,1885.15,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,91.4,449.75,1,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,89.15,574.35,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Yes,Electronic check,90.1,816.8,0,999
+Male,0,Yes,No,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),85.15,6316.2,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Yes,Bank transfer (automatic),70.35,1201.65,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,No,Electronic check,85.2,695.75,0,999
+Male,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.55,819.95,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Credit card (automatic),65.25,1994.3,1,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Electronic check,68.4,3972.25,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),99.05,5295.7,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Credit card (automatic),66.75,4760.3,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes,Bank transfer (automatic),89.75,1052.4,1,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),90.1,2312.55,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,No,Yes,No,No,No,No,No,Credit card (automatic),29.3,1224.05,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.0,109.2,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,67.75,116.65,1,999
+Female,1,Yes,No,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,No,Credit card (automatic),88.8,4805.3,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Yes,Electronic check,99.0,4298.45,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Credit card (automatic),105.2,6225.4,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,94.0,181.7,1,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Yes,Credit card (automatic),97.75,6991.6,0,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,94.4,5610.25,1,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Credit card (automatic),45.2,492.0,0,999
+Female,1,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,18.95,1031.1,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,99.8,5985.75,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.35,867.3,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),100.15,4459.8,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Yes,Bank transfer (automatic),59.75,4069.9,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Electronic check,66.1,1912.15,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.6,59.75,1,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,70.65,142.35,1,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,Yes,No,No,Mailed check,55.0,2010.55,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.65,67.55,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Electronic check,74.7,165.4,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.05,95.55,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Yes,Electronic check,96.1,4391.45,0,999
+Male,0,No,No,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Yes,Bank transfer (automatic),65.35,1231.85,0,999
+Male,0,No,No,No,No phone service,DSL,No,Yes,No,No,No,No,Yes,Mailed check,31.1,419.7,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Yes,Mailed check,57.95,1271.8,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,Yes,Mailed check,87.9,1500.5,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,No,Electronic check,100.6,5746.15,1,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Mailed check,88.1,5526.75,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,No,Mailed check,75.0,209.1,1,999
+Female,0,Yes,No,Yes,No,DSL,Yes,No,Yes,Yes,No,No,No,Credit card (automatic),58.9,3857.1,0,999
+Female,0,No,Yes,No,No phone service,DSL,No,No,No,No,No,Yes,Yes,Electronic check,35.0,553.0,1,999
+Female,0,No,No,Yes,No,DSL,No,No,No,Yes,Yes,No,Yes,Mailed check,59.5,415.95,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Bank transfer (automatic),74.45,1261.35,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Yes,Electronic check,89.75,608.8,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Bank transfer (automatic),78.55,522.95,0,999
+Male,1,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Yes,Electronic check,93.25,5774.55,0,999
+Male,1,Yes,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Electronic check,76.45,1233.4,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Electronic check,81.45,2122.05,1,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Yes,Electronic check,102.45,102.45,1,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,80.9,4557.5,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.2,19.2,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),94.0,1505.45,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),20.2,20.2,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Mailed check,72.6,154.3,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Yes,Electronic check,84.4,556.35,1,999
+Female,1,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Yes,Credit card (automatic),78.1,864.85,0,999
+Male,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,No,Credit card (automatic),69.15,2275.1,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),114.2,7723.9,1,999
+Female,0,Yes,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,97.05,4692.95,0,999
+Male,1,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Credit card (automatic),44.7,276.5,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,No,Electronic check,85.55,851.75,1,999
+Female,1,Yes,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Bank transfer (automatic),91.0,1859.5,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,80.7,239.45,0,999
+Female,1,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Yes,Credit card (automatic),88.75,5348.65,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Yes,Electronic check,59.2,3175.85,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,70.35,70.35,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,No,Credit card (automatic),110.25,7279.35,0,999
+Male,1,Yes,No,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,No,Bank transfer (automatic),90.1,2656.7,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Bank transfer (automatic),75.75,1929.0,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Mailed check,70.65,70.65,1,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Credit card (automatic),85.95,2628.6,1,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,Yes,Yes,Electronic check,55.4,55.4,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,84.9,2516.2,0,999
+Male,0,Yes,No,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,No,Mailed check,79.25,2911.8,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,No,Mailed check,89.2,5500.6,0,999
+Male,1,Yes,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),25.45,1789.65,0,999
+Male,0,No,No,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),109.2,7049.75,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Electronic check,59.8,3641.5,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,No,Mailed check,79.0,4801.1,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,Mailed check,59.6,3509.4,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Electronic check,54.75,1338.15,1,999
+Female,0,Yes,Yes,Yes,No,DSL,No,Yes,No,Yes,No,No,No,Mailed check,56.5,235.1,1,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),109.0,7661.8,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.55,166.3,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.45,19.45,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Credit card (automatic),86.05,3865.6,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.15,1177.05,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,No,Credit card (automatic),104.6,6819.45,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Electronic check,109.55,8165.1,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,No,Yes,No,Bank transfer (automatic),78.95,2034.25,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No,Electronic check,59.8,2343.85,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.55,1463.45,0,999
+Female,0,Yes,No,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),57.8,4039.3,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,101.9,5549.4,1,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,102.8,2110.15,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Yes,Credit card (automatic),90.85,90.85,1,999
+Male,0,Yes,Yes,Yes,No,DSL,No,Yes,No,Yes,No,No,No,Mailed check,54.8,452.8,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.1,1013.35,0,999
+Male,1,Yes,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Bank transfer (automatic),72.9,5139.65,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.9,19.9,1,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,105.3,545.2,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.1,223.6,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Yes,Electronic check,97.95,4917.9,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,No,Credit card (automatic),77.55,5574.35,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,Yes,Bank transfer (automatic),53.85,3399.85,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),65.1,4754.3,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),103.65,4747.85,0,999
+Female,1,No,No,Yes,Yes,DSL,No,Yes,No,No,No,No,Yes,Credit card (automatic),56.55,118.25,0,999
+Male,0,Yes,Yes,Yes,No,DSL,No,No,Yes,Yes,No,No,Yes,Credit card (automatic),55.25,3119.9,0,999
+Female,0,Yes,Yes,Yes,No,DSL,Yes,No,No,Yes,No,No,No,Electronic check,55.15,1319.85,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,No,Credit card (automatic),45.25,3139.8,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No,Electronic check,108.45,7176.55,1,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Credit card (automatic),107.7,7919.8,0,999
+Male,0,No,No,Yes,No,DSL,No,No,Yes,No,No,No,Yes,Electronic check,50.5,50.5,1,999
+Female,0,No,No,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Bank transfer (automatic),60.15,2421.6,0,999
+Female,0,No,No,Yes,Yes,DSL,No,No,No,No,No,No,Yes,Mailed check,48.8,720.1,0,999
+Female,1,No,No,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Mailed check,69.75,1545.4,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No,Electronic check,108.9,2809.05,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Yes,Electronic check,98.75,4533.7,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,74.85,572.45,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.25,488.25,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.65,225.75,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.45,19.45,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Mailed check,115.1,6993.65,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Bank transfer (automatic),74.95,2869.85,1,999
+Male,0,No,Yes,Yes,Yes,DSL,No,No,No,No,No,No,Yes,Electronic check,50.05,50.05,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,113.6,6292.7,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,No,No,No,No,Mailed check,54.5,2301.15,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Yes,Bank transfer (automatic),106.75,4056.75,1,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Electronic check,110.6,6586.85,0,999
+Male,0,Yes,No,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,No,Mailed check,67.25,4234.15,0,999
+Female,1,No,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),105.35,3465.05,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,75.55,2425.4,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),91.1,2198.3,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,Yes,No,No,Mailed check,55.15,159.15,1,999
+Male,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.25,48.35,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Bank transfer (automatic),44.05,44.05,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,80.85,356.1,0,999
+Male,0,Yes,No,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),79.1,5564.85,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),114.75,7842.3,0,999
+Female,0,No,No,Yes,No,Fiber optic,Yes,No,No,No,No,No,No,Mailed check,75.3,75.3,1,999
+Male,0,No,No,Yes,No,DSL,No,No,No,Yes,No,No,No,Bank transfer (automatic),50.25,593.75,1,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,Bank transfer (automatic),80.6,2656.5,1,999
+Male,1,Yes,No,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Yes,Credit card (automatic),82.95,4903.15,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),101.15,3956.7,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,No,Electronic check,107.55,3645.5,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.6,686.95,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.9,367.55,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Credit card (automatic),105.75,7629.85,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,No,Electronic check,95.3,6273.4,0,999
+Female,0,Yes,No,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Yes,Credit card (automatic),70.35,4124.65,0,999
+Female,1,Yes,No,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Yes,Electronic check,99.4,7168.25,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Bank transfer (automatic),97.35,3457.9,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.85,470.0,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.45,20.45,0,999
+Female,1,No,No,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),74.85,3268.05,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Yes,Mailed check,85.95,514.6,0,999
+Female,1,No,No,Yes,Yes,DSL,No,No,Yes,No,No,No,No,Electronic check,55.65,2421.75,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,No,Mailed check,75.05,202.9,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.65,155.9,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,No,No,No,No,Yes,Yes,Mailed check,60.2,1834.15,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,No,Yes,Yes,No,No,No,Mailed check,56.9,2560.1,0,999
+Female,1,Yes,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes,Bank transfer (automatic),74.6,239.05,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.7,117.8,0,999
+Female,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),21.05,531.55,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Bank transfer (automatic),99.05,4853.75,1,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,Yes,No,No,No,Yes,Credit card (automatic),75.3,1702.9,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,No,Electronic check,105.55,5682.25,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.05,20.05,1,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes,Bank transfer (automatic),90.1,2598.95,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),99.3,2513.5,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Bank transfer (automatic),75.8,1615.1,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.55,1245.6,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,100.2,2983.8,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.9,69.9,0,999
+Male,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Bank transfer (automatic),80.8,4860.85,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Yes,Credit card (automatic),81.3,3190.65,0,999
+Male,0,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Credit card (automatic),81.4,4354.45,0,999
+Male,0,No,No,No,No phone service,DSL,No,Yes,No,No,No,No,No,Mailed check,30.1,1623.4,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Yes,Electronic check,81.55,4509.5,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.45,19.45,0,999
+Male,0,No,No,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Electronic check,53.75,3196.0,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,Yes,No,Mailed check,55.55,55.55,0,999
+Male,0,Yes,No,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No,Electronic check,58.6,3068.6,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Electronic check,72.25,2568.55,1,999
+Female,0,Yes,No,Yes,No,DSL,No,No,No,Yes,No,No,Yes,Mailed check,51.45,1758.9,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Yes,Mailed check,98.55,2031.95,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,No,No,No,Yes,Yes,Mailed check,33.9,298.45,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Electronic check,20.35,1359.5,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,Yes,No,No,No,Yes,Mailed check,55.8,274.35,0,999
+Male,0,No,Yes,Yes,No,DSL,No,No,No,Yes,No,No,Yes,Mailed check,49.9,49.9,1,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,No,No,No,No,No,Yes,Credit card (automatic),51.3,411.6,0,999
+Female,1,No,No,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,56.25,1765.95,0,999
+Male,0,Yes,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,No,Electronic check,76.2,76.2,1,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Yes,Mailed check,95.15,5000.05,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),91.3,4965.0,0,999
+Male,0,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,24.6,1279.0,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.3,475.1,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.8,342.3,0,999
+Male,1,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Yes,Electronic check,85.75,5688.45,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.8,309.4,0,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,45.95,45.95,1,999
+Female,0,No,No,Yes,No,DSL,Yes,No,No,Yes,No,No,No,Mailed check,55.15,742.9,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Mailed check,109.8,3587.25,1,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),26.3,1245.05,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Yes,Credit card (automatic),88.95,2072.75,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),20.85,435.25,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Bank transfer (automatic),95.15,997.65,1,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Yes,Credit card (automatic),95.15,6770.85,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Bank transfer (automatic),45.1,45.1,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),105.35,323.25,1,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.65,973.1,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,24.2,609.05,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),19.3,890.5,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Mailed check,73.85,401.3,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,74.95,212.4,0,999
+Male,0,Yes,Yes,Yes,No,DSL,No,No,No,No,No,No,No,Electronic check,44.8,169.65,0,999
+Female,0,Yes,No,Yes,No,DSL,Yes,No,No,Yes,No,Yes,No,Mailed check,65.5,564.35,0,999
+Male,1,No,No,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Yes,Bank transfer (automatic),85.15,503.6,1,999
+Female,0,Yes,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Bank transfer (automatic),79.35,79.35,1,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Mailed check,94.05,633.45,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),113.15,7993.3,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,104.8,7308.95,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.2,1068.15,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Mailed check,74.45,1145.7,1,999
+Male,0,No,No,No,No phone service,DSL,No,No,No,No,No,No,Yes,Bank transfer (automatic),25.15,331.85,0,999
+Male,0,No,No,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,Bank transfer (automatic),60.45,1440.75,0,999
+Male,0,No,No,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,No,Mailed check,42.4,146.4,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,No,Bank transfer (automatic),105.75,4228.55,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,No,Yes,No,No,Yes,Electronic check,29.7,438.25,1,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.85,1433.8,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.6,1416.5,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Yes,Electronic check,89.2,346.2,1,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,Credit card (automatic),59.6,2970.3,0,999
+Female,0,Yes,No,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Yes,Mailed check,64.3,3410.6,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Mailed check,90.5,4318.35,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Yes,Electronic check,94.15,4408.45,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,No,Credit card (automatic),74.75,2453.3,0,999
+Male,0,Yes,Yes,Yes,No,DSL,No,No,No,Yes,No,Yes,No,Credit card (automatic),61.45,229.55,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Yes,Electronic check,85.3,424.15,1,999
+Female,0,No,No,Yes,No,DSL,Yes,No,No,No,No,No,Yes,Credit card (automatic),50.55,2832.75,0,999
+Male,1,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Credit card (automatic),84.45,5899.85,0,999
+Male,0,No,No,Yes,No,DSL,No,No,Yes,No,Yes,No,No,Mailed check,60.9,414.1,0,999
+Female,0,No,No,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Yes,Mailed check,64.4,253.0,0,999
+Male,0,No,No,Yes,No,DSL,Yes,No,No,No,No,No,No,Mailed check,50.35,1411.35,0,999
+Female,1,No,No,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,No,Bank transfer (automatic),82.45,4350.1,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),108.55,7616.0,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,Yes,No,Electronic check,80.5,80.5,1,999
+Female,0,No,No,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Mailed check,80.75,3208.65,0,999
+Female,0,No,No,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Yes,Mailed check,60.4,272.15,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.45,165.35,0,999
+Male,0,Yes,No,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Credit card (automatic),69.05,653.95,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,No,No,No,Bank transfer (automatic),75.1,1212.85,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,70.95,137.95,1,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.35,35.1,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),18.25,534.7,0,999
+Female,0,No,No,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,45.35,45.35,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,24.25,1077.95,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Bank transfer (automatic),85.45,6029.9,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Mailed check,74.55,5430.65,0,999
+Female,0,Yes,No,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),84.9,6065.3,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Electronic check,90.4,6668.05,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,86.85,1564.4,0,999
+Female,0,No,Yes,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Mailed check,77.55,3471.1,0,999
+Female,1,No,No,No,No phone service,DSL,No,No,No,No,No,No,No,Mailed check,25.05,25.05,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Yes,Electronic check,78.9,2447.95,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,110.75,5832.0,0,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Bank transfer (automatic),20.65,1057.0,0,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.6,851.2,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),105.7,6816.95,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.45,527.35,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Mailed check,102.65,4108.15,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.6,69.6,1,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,No,No,No,No,Yes,Electronic check,31.05,347.25,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Yes,Electronic check,80.1,336.15,0,999
+Female,1,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Bank transfer (automatic),78.45,5682.25,0,999
+Male,0,No,No,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Bank transfer (automatic),71.4,1212.1,0,999
+Male,0,No,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Bank transfer (automatic),70.45,70.45,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.7,316.9,1,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,104.25,2433.9,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,20.2,917.45,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Bank transfer (automatic),43.85,43.85,0,999
+Male,0,Yes,Yes,Yes,No,DSL,No,Yes,Yes,No,No,No,Yes,Credit card (automatic),55.8,2651.2,0,999
+Female,0,Yes,No,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Yes,Electronic check,97.2,5611.75,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,19.35,152.6,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,Mailed check,60.05,3994.05,0,999
+Female,0,No,No,Yes,Yes,DSL,No,No,No,Yes,No,No,Yes,Mailed check,54.35,117.05,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,Electronic check,93.5,2341.55,0,999
+Female,1,Yes,No,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Credit card (automatic),99.2,4062.2,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Yes,Electronic check,78.95,927.35,1,999
+Female,0,Yes,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Credit card (automatic),95.65,6744.2,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Yes,Credit card (automatic),99.35,6944.5,0,999
+Female,0,Yes,Yes,Yes,No,DSL,No,No,No,Yes,No,No,Yes,Mailed check,48.8,297.35,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Yes,Bank transfer (automatic),95.25,5427.05,1,999
+Female,0,No,No,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Electronic check,75.3,244.1,0,999
+Female,0,No,No,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),85.35,5897.4,0,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,No,Electronic check,51.4,96.8,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),116.05,6925.9,0,999
+Female,0,No,Yes,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Bank transfer (automatic),105.2,4822.85,1,999
+Male,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Credit card (automatic),74.6,4798.4,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,79.5,79.5,1,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes,Credit card (automatic),85.8,1727.5,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes,Bank transfer (automatic),88.4,5798.3,0,999
+Female,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit card (automatic),90.3,5194.05,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Yes,Bank transfer (automatic),59.8,3457.45,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.4,19.4,1,999
+Female,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.35,1031.7,0,999
+Female,0,Yes,Yes,Yes,No,DSL,No,Yes,No,Yes,No,No,Yes,Credit card (automatic),54.15,2319.8,1,999
+Male,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.95,268.4,0,999
+Male,0,No,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),25.3,1673.8,0,999
+Female,0,No,Yes,Yes,No,DSL,No,No,No,No,No,No,No,Mailed check,46.0,221.7,1,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Credit card (automatic),69.5,2625.25,0,999
+Female,0,Yes,Yes,Yes,No,DSL,No,Yes,No,No,No,No,No,Mailed check,49.85,1336.15,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,70.15,931.75,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Yes,Electronic check,90.25,743.75,0,999
+Male,0,No,No,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,No,Mailed check,40.0,223.45,1,999
+Male,0,No,No,No,No phone service,DSL,Yes,No,No,No,No,No,Yes,Bank transfer (automatic),30.75,1489.3,0,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.9,1110.05,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,No,Electronic check,95.7,1184.0,0,999
+Female,1,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Electronic check,104.9,6891.45,0,999
+Male,1,No,Yes,Yes,No,DSL,No,Yes,No,Yes,No,No,Yes,Electronic check,54.55,601.25,0,999
+Female,0,No,Yes,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,No,Bank transfer (automatic),93.0,870.25,0,999
+Male,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.9,1363.45,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,69.95,69.95,1,999
+Female,0,Yes,No,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Mailed check,74.35,4759.55,0,999
+Male,1,Yes,No,No,No phone service,DSL,Yes,No,No,Yes,No,No,No,Bank transfer (automatic),36.1,2298.9,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Credit card (automatic),99.3,918.75,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),116.1,7839.85,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),19.9,1355.1,0,999
+Female,0,Yes,No,Yes,No,DSL,No,Yes,Yes,No,No,Yes,Yes,Electronic check,65.65,3094.65,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,No,No,No,No,No,Mailed check,24.4,24.4,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Yes,Bank transfer (automatic),60.4,3953.7,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.15,20.15,1,999
+Female,0,Yes,Yes,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Yes,Electronic check,68.55,564.35,0,999
+Male,0,No,No,Yes,No,DSL,No,No,No,No,No,No,Yes,Electronic check,45.65,45.65,1,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Yes,Electronic check,85.75,470.95,1,999
+Male,0,Yes,Yes,Yes,No,DSL,No,No,Yes,No,No,No,Yes,Electronic check,49.6,939.8,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Electronic check,106.8,5347.95,0,999
+Male,0,Yes,Yes,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Yes,Credit card (automatic),39.4,825.4,0,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,No,No,No,Yes,Yes,Credit card (automatic),40.1,293.3,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No,Electronic check,111.1,6014.85,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,100.0,3320.6,0,999
+Female,1,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Credit card (automatic),104.4,6405.0,1,999
+Female,0,Yes,No,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,Yes,Electronic check,47.05,3263.6,0,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Electronic check,99.4,7285.7,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Yes,Mailed check,89.85,244.45,0,999
+Female,0,No,No,Yes,No,Fiber optic,Yes,No,No,No,No,No,Yes,Electronic check,75.4,1380.4,0,999
+Female,1,Yes,No,No,No phone service,DSL,No,No,Yes,No,No,Yes,Yes,Credit card (automatic),40.65,933.3,1,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,No,Electronic check,90.8,4921.2,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Yes,Credit card (automatic),94.6,5948.7,0,999
+Female,0,No,No,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,Yes,Electronic check,89.05,1886.25,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes,Electronic check,85.0,2624.25,1,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Yes,Electronic check,95.4,4445.3,0,999
+Female,1,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Credit card (automatic),74.85,4456.35,0,999
+Female,0,Yes,No,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Yes,Electronic check,49.95,810.2,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Mailed check,108.5,6880.85,0,999
+Female,0,No,No,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Yes,Electronic check,50.6,1073.3,0,999
+Female,0,Yes,Yes,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,No,Credit card (automatic),59.85,3590.2,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Yes,Bank transfer (automatic),83.65,5733.4,0,999
+Male,0,Yes,No,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Credit card (automatic),76.1,5264.25,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Yes,Electronic check,79.8,1001.2,0,999
+Male,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Yes,Electronic check,106.0,6547.7,1,999
+Male,1,Yes,No,No,No phone service,DSL,No,No,Yes,No,No,No,Yes,Electronic check,29.9,118.25,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Electronic check,19.3,19.3,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,74.95,1036.75,1,999
+Female,0,Yes,Yes,Yes,No,DSL,No,No,Yes,No,No,No,Yes,Bank transfer (automatic),50.95,2610.65,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,No,Electronic check,91.05,2871.5,0,999
+Male,0,Yes,No,No,No phone service,DSL,No,No,No,No,Yes,Yes,Yes,Electronic check,45.9,1332.4,0,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Bank transfer (automatic),55.3,3983.6,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.05,400.0,0,999
+Male,1,Yes,No,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Yes,Bank transfer (automatic),64.95,1339.8,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.45,86.05,0,999
+Male,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Credit card (automatic),69.8,134.7,1,999
+Female,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,24.95,1165.9,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,No,Bank transfer (automatic),72.8,3249.4,0,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),24.25,1424.6,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),108.95,7111.3,0,999
+Male,0,No,No,No,No phone service,DSL,No,No,Yes,No,Yes,No,Yes,Electronic check,39.65,733.35,1,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,25.15,412.6,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,No,Mailed check,95.65,95.65,1,999
+Male,0,Yes,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Credit card (automatic),104.15,7365.3,0,999
+Male,0,No,No,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Credit card (automatic),72.15,794.25,1,999
+Female,0,No,No,Yes,No,DSL,Yes,No,No,No,No,No,Yes,Electronic check,49.8,1049.05,0,999
+Female,0,No,No,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes,Bank transfer (automatic),104.8,3886.45,0,999
+Male,0,Yes,Yes,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Yes,Electronic check,89.7,3165.6,0,999
+Male,0,No,No,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Bank transfer (automatic),60.05,4176.7,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Mailed check,18.95,185.6,1,999
+Female,0,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,70.25,70.25,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,Credit card (automatic),60.5,3121.45,0,999
+Female,0,No,Yes,No,No phone service,DSL,Yes,No,No,No,No,No,No,Mailed check,29.8,201.95,0,999
+Female,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.45,246.25,0,999
+Male,1,Yes,No,Yes,No,DSL,Yes,No,No,No,Yes,No,No,Bank transfer (automatic),60.9,551.95,0,999
+Female,0,Yes,Yes,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Yes,Electronic check,91.55,5511.65,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Credit card (automatic),73.05,4688.65,0,999
+Female,0,Yes,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,24.4,1417.9,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.75,1123.15,0,999
+Male,0,No,No,Yes,No,DSL,No,Yes,No,No,No,No,Yes,Mailed check,50.3,92.75,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,No,Electronic check,90.65,367.95,0,999
+Female,0,No,No,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,No,Mailed check,74.05,872.65,1,999
+Female,0,Yes,No,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Yes,Electronic check,94.75,5276.1,0,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Yes,Bank transfer (automatic),83.2,1130.0,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Electronic check,74.9,469.8,1,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.75,856.5,0,999
+Female,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),110.8,3836.3,0,999
+Male,0,No,No,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes,Mailed check,74.25,74.25,1,999
+Female,0,No,No,Yes,Yes,DSL,No,No,No,No,No,No,Yes,Mailed check,50.6,249.95,1,999
+Male,0,No,No,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Bank transfer (automatic),81.75,2028.8,0,999
+Female,0,No,No,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Yes,Credit card (automatic),60.35,2896.4,1,999
+Female,0,No,No,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,No,Electronic check,80.55,653.9,0,999
+Male,0,Yes,Yes,Yes,No,DSL,Yes,Yes,No,No,No,No,Yes,Mailed check,55.85,857.8,0,999
+Female,1,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Yes,Electronic check,84.95,1443.65,0,999
+Female,0,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),20.65,875.55,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,115.5,8425.15,0,999
+Male,0,Yes,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),19.7,1301.1,0,999
+Male,1,Yes,No,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Bank transfer (automatic),25.0,1802.55,0,999
+Female,0,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,No,Mailed check,100.45,4941.8,1,999
+Female,0,No,Yes,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes,Bank transfer (automatic),98.1,396.3,1,999
+Male,0,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Bank transfer (automatic),82.3,5815.15,0,999
+Male,0,No,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Credit card (automatic),24.1,439.2,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Yes,Electronic check,90.85,3186.7,1,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,19.5,225.85,0,999
+Male,1,No,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Electronic check,86.6,1281.0,1,999
+Male,0,Yes,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),25.55,1867.7,0,999
+Male,1,Yes,No,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,Credit card (automatic),85.05,1391.15,0,999
+Female,0,No,No,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card (automatic),82.45,5555.3,0,999
+Female,0,Yes,No,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Yes,Electronic check,88.85,1594.75,0,999
+Male,0,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Mailed check,20.25,20.25,1,999
+Male,1,No,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic check,116.5,6382.55,0,999
+Male,0,No,Yes,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No,Credit card (automatic),24.8,223.9,0,999
+Female,0,No,Yes,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Electronic check,20.55,469.85,0,999
+Female,0,No,No,No,No phone service,DSL,No,Yes,No,No,No,Yes,Yes,Electronic check,40.35,1677.85,0,999
+Male,0,Yes,No,Yes,No,DSL,Yes,No,No,Yes,No,No,Yes,Credit card (automatic),54.95,568.85,0,999
