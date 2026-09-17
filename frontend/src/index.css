@@ -1,0 +1,112 @@
+:root {
+  /* Autonomous Model Intelligence Theme Tokens from DESIGN.md */
+  --surface: #0f131d;
+  --surface-dim: #0f131d;
+  --surface-bright: #353944;
+  --surface-container-lowest: #0a0e18;
+  --surface-container-low: #171b26;
+  --surface-container: #1c1f2a;
+  --surface-container-high: #262a35;
+  --surface-container-highest: #313540;
+  --on-surface: #dfe2f1;
+  --on-surface-variant: #c7c4d7;
+  --inverse-surface: #dfe2f1;
+  --inverse-on-surface: #2c303b;
+  --outline: #908fa0;
+  --outline-variant: #464554;
+  --surface-tint: #c0c1ff;
+  --primary: #c0c1ff;
+  --on-primary: #1000a9;
+  --primary-container: #8083ff;
+  --on-primary-container: #0d0096;
+  --inverse-primary: #494bd6;
+  --secondary: #bdc2ff;
+  --on-secondary: #131e8c;
+  --secondary-container: #2f3aa3;
+  --on-secondary-container: #a8afff;
+  --tertiary: #4cd7f6;
+  --on-tertiary: #003640;
+  --tertiary-container: #009eb9;
+  --on-tertiary-container: #002f38;
+  --error: #ffb4ab;
+  --on-error: #690005;
+  --error-container: #93000a;
+  --on-error-container: #ffdad6;
+  --primary-fixed: #e1e0ff;
+  --primary-fixed-dim: #c0c1ff;
+  --background: #0f131d;
+  --on-background: #dfe2f1;
+
+  /* Legacy variable compatibility */
+  --bg-main: #0f131d;
+  --bg-card: #1c1f2a;
+  --bg-card-hover: #262a35;
+  --bg-surface: #171b26;
+  --border-subtle: rgba(70, 69, 84, 0.4);
+  --border-focus: #c0c1ff;
+  --text-primary: #dfe2f1;
+  --text-secondary: #c7c4d7;
+  --text-muted: #908fa0;
+  --accent-primary: #c0c1ff;
+  --accent-success: #4cd7f6;
+  --accent-warning: #bdc2ff;
+  --accent-danger: #ffb4ab;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+}
+
+/* Material Symbols configuration */
+.material-symbols-outlined {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+/* Global Reset */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background);
+  color: var(--on-surface);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  min-height: 100vh;
+}
+
+/* Numbers in tables & metrics: Tabular Lining */
+.tabular-nums,
+table,
+.font-label-mono-sm,
+.font-label-mono-md,
+.font-label-mono-lg {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom button states */
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out forwards;
+}
